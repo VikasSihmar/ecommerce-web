@@ -1,0 +1,22 @@
+# dependencies
+/forntend/node_modules
+/forntend/.pnp
+/forntend/.pnp.js
+
+# testing
+/forntend/coverage
+
+# production
+/forntend/build
+
+# misc
+.backend/congif/config.env
+/forntend/.DS_Store
+/forntend/.env.local
+/forntend/.env.development.local
+/forntend/.env.test.local
+/forntend/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
